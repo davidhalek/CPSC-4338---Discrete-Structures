@@ -2,3 +2,4 @@
 # 
 # Team 4 Project 
 #
+# This contains the project requirements, final design document, and the PowerPoint presentation.
